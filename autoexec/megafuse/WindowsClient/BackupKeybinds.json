@@ -1,0 +1,157 @@
+{
+	"settingsVersion": 13,
+	"actionMappings": [
+		{
+			"name": "Activate_GrenadeAbility",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Z",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Activate_Ability1",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "C",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Activate_Ability2",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "X",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Activate_Ultimate",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "V",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "PrevWeapon",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "NextWeapon",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "EquipLastUsed",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Q",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "EquipLastUsed",
+			"characterName": "None",
+			"bindIndex": 1,
+			"key": "E",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Jump",
+			"characterName": "None",
+			"bindIndex": 1,
+			"key": "MouseScrollDown",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Crouch",
+			"characterName": "None",
+			"bindIndex": 1,
+			"key": "MouseScrollUp",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Ping",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "ThumbMouseButton2",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "ToggleCharacterAbilityHUD",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "ShowScoreboard",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "F1",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "OpenMegamap",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Tilde",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Inspect",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Tab",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		}
+	],
+	"axisMappings": [],
+	"settingsProfiles": []
+}
